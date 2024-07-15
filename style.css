@@ -1,0 +1,158 @@
+.container{
+    border:solid red;
+    height:200px;
+    display:flex;
+}
+.boxes{
+    border:solid black;
+    margin:1em;
+    height:90px;
+    width:90px;
+}
+
+#box1{
+    background-color: lime;
+}
+#box2{
+    background-color: blue;
+}
+#box3{
+    background-color: grey;
+}
+#box4{
+    background-color: orange;
+}
+#box5{
+    background-color: purple;
+}
+#box6{
+    background-color: pink;
+}
+#box7{
+    background-color: magenta;
+}
+#box8{
+    background-color: navy;
+}
+
+.container2{
+    border:solid green;
+    display:flex;
+    padding:1em;
+    justify-content: space-evenly;
+    align-items: b;
+
+}
+.something{
+    /* border:solid blue; */
+}
+
+
+.nav-container{
+    width: 100%;
+        border: 1px solid black;
+    margin-bottom: 10px;
+    display :flex ;
+    justify-content: space-between;
+}
+
+.linkBox{
+    border: 1px solid red;
+    padding: 4px;
+}
+
+
+.right{
+    display: flex;
+}
+
+.left2{
+    display: flex;
+}
+
+.nav-container3{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+
+}
+
+.right3{
+   
+    display :flex ;
+    justify-content: end;
+}
+
+
+
+
+.nav-container4{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+    
+}
+
+.center{
+    display :flex ;
+    justify-content: center;
+}
+
+
+.nav-container5{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-container6{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+display: flex;
+    justify-content: space-between;
+}
+
+.left6{
+    display: flex;
+}
+
+.right6{
+    display: flex;
+}
+
+
+.nav-container7{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+display: flex;
+    justify-content: space-between;
+}
+
+.left7{
+    display: flex;
+}
+
+.right7{
+    display: flex;
+}
+
+
+.nav-container8{
+    width: 100%;
+    border: 1px solid black;
+margin-bottom: 10px;
+display: flex;
+    justify-content: space-between;
+}
+
+.mid8{
+    display: flex;
+}
+
+.right8{
+    display: flex;
+}
